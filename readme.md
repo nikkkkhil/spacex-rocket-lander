@@ -105,16 +105,3 @@ provided in different directories.
 Script evaluations were left here for reference.
 
 
-## Version
-
-1.1.0
-
-## Authors
-
-* **Reuben Ferrante**
-
-References: https://gym.openai.com/envs/LunarLander-v2/
-
-## License
-
-This project is licensed under the MIT License.
